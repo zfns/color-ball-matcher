@@ -1,0 +1,9 @@
+{
+  "name": "minesweeper",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "javascript-astar": "^0.4.1",
+    "phaser": "~2.4.6"
+  }
+}
